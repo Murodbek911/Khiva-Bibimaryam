@@ -33,7 +33,8 @@
     <div class="container">
         <h2 id="welcome">Добро пожаловать в Khiva Bibimaryam!</h2>
         <p id="description">Уютные номера в сердце Хивы. Забронируйте прямо сейчас!</p>
-        <img src="hotel.jpg" alt="Фото гостиницы" width="80%">
+        <img src="hotel.jpg" alt="![Uploading image.png…]()
+" width="80%">
         
         <h3 id="roomsTitle">Наши номера</h3>
         <div class="room">Двухместный номер (1 кровать или 2 отдельные кровати, ванная комната) - 45$ / ночь</div>
